@@ -8,7 +8,7 @@ A personal **Obsidian vault** for storing and organizing **shortcut keys & produ
 
 - **📁 Obsidian Shortcuts/** → Essential keyboard shortcuts for efficient note-taking
 - **📁 VS Code Shortcuts/** → Useful commands for faster coding & navigation
-- **📁 Linux System Shortcuts/** → Terminal, window management, and workflow optimizations
+- **📁 Linux System Shortcuts/** → window management, and workflow optimizations
 
 Each folder contains **well-organized markdown notes** for quick reference.
 
