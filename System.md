@@ -55,3 +55,5 @@
   
 - **System activity:**
   `ctrl + Esc`
+- Delete a whole word
+  `ctrl + backspace` 

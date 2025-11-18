@@ -29,7 +29,7 @@
 ### Search and Replace
 - **`Ctrl + F`**: Find in the current file.
 - **`Ctrl + H`**: Replace in the current file.
-- **`Ctrl + Shift + F`**: Find across all files in the workspace.
+- **`Ctrl + Shift + F`**: Search across all files in the workspace.
 - **`Ctrl + Shift + H`**: Replace across all files in the workspace.
 
 ### Splitting and Managing Editors
